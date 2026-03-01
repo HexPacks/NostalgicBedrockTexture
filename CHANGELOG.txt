@@ -1,0 +1,6 @@
+Leaf litter are now invisible
+Fixed view of tamed wolf
+Added copper tools/armor/ingot
+Fixed pause screen UI
+Added netherite and copper horse armor
+Added spears

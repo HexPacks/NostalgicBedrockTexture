@@ -1,0 +1,98 @@
+//This JSON was modified by CrisXolt (@CrisXolt). Please do not use this document without permission.
+{
+  "geometry.bed": {
+    "bones": [
+      {
+        "pivot": [ 0.0, 24.0, 0.0 ],
+        "rotation": [ 0.0, 0.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ 0.0, 16.0, 0.0 ],
+            "size": [ 16.0, 16.0, 6.0 ],
+            "uv": [ 0.0, 0.0 ],
+            "inflate": 0.0,
+            "mirror": false
+          },
+          {
+            "origin": [ 0.0, 0.0, 0.0 ],
+            "size": [ 16.0, 16.0, 6.0 ],
+            "uv": [ 0.0, 22.0 ],
+            "inflate": 0.0,
+            "mirror": false
+          }
+        ],
+        "META_BoneType": "base",
+        "name": "bed",
+        "parent": null
+      },
+      {
+        "pivot": [ 5.0, 22.0, 0.0 ],
+        "rotation": [ 90.0, 0.0, 180.0 ],
+        "cubes": [
+          {
+            "origin": [ -6.0, 13.0, -10.0 ],
+            "size": [ 3.0, 3.0, 3.0 ],
+            "uv": [ 50.0, 18.0 ],
+            "inflate": 0.0,
+            "mirror": false
+          }
+        ],
+        "META_BoneType": "base",
+        "name": "leg1",
+        "parent": null
+      },
+      {
+        "pivot": [ -5.0, 22.0, 0.0 ],
+        "rotation": [ 90.0, 0.0, 90.0 ],
+        "cubes": [
+          {
+            "origin": [ -15.0, 13.0, 5.0 ],
+            "size": [ 3.0, 3.0, 3.0 ],
+            "uv": [ 50.0, 6.0 ],
+            "inflate": 0.0,
+            "mirror": false
+          }
+        ],
+        "META_BoneType": "base",
+        "name": "leg0",
+        "parent": null
+      },
+      {
+        "pivot": [ 2.0, 12.0, 0.0 ],
+        "rotation": [ 90.0, 0.0, -90.0 ],
+        "cubes": [
+          {
+            "origin": [ -10.0, 3.0, -14.0 ],
+            "size": [ 3.0, 3.0, 3.0 ],
+            "uv": [ 50.0, 12.0 ],
+            "inflate": 0.0,
+            "mirror": false
+          }
+        ],
+        "META_BoneType": "base",
+        "name": "leg3",
+        "parent": null
+      },
+      {
+        "pivot": [ -2.0, 12.0, 0.0 ],
+        "rotation": [ 90.0, 0.0, 0.0 ],
+        "cubes": [
+          {
+            "origin": [ 0.0, 3.0, -12.0 ],
+            "size": [ 3.0, 3.0, 3.0 ],
+            "uv": [ 50.0, 0.0 ],
+            "inflate": 0.0,
+            "mirror": false
+          }
+        ],
+        "META_BoneType": "base",
+        "name": "leg2",
+        "parent": null
+      }
+    ],
+    "texturewidth": 64,
+    "textureheight": 64,
+    "META_ModelVersion": "1.0.6",
+    "rigtype": "normal"
+  }
+}

@@ -1,0 +1,14 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "play_or_create_stack_bedrock": {
+    "modifications": [
+      {
+        "control_name": "play_on_realm_button",
+        "operation": "remove"
+      }
+    ]
+  },
+  "play_or_create_stack_bedrock/create_or_play_button": {
+    "$button_text": "howtoplay.category.play"
+  }
+}

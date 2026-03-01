@@ -1,0 +1,15 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "inventory_left_panel": {
+    "modifications": [
+      {
+        "control_name": "divider_1",
+        "operation": "remove"
+      },
+      {
+        "control_name": "subscriptions_toggle",
+        "operation": "remove"
+      }
+    ]
+  }
+}

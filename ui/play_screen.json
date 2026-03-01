@@ -1,0 +1,30 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "worlds_stack_panel/realms_panel": {
+    "modifications": [
+      {
+        "control_name": "realms_label",
+        "operation": "remove"
+      },
+      {
+        "control_name": "create_on_realms_button_panel",
+        "operation": "remove"
+      },
+      {
+        "control_name": "placeholder_personal_realms_panel",
+        "operation": "remove"
+      },
+      {
+        "control_name": "realms_trial_panel",
+        "operation": "remove"
+      },
+      {
+        "control_name": "realms_nintendo_first_realm_purchase_panel",
+        "operation": "remove"
+      }
+    ]
+  },
+  "worlds_stack_panel/worlds_label": {
+    "variables": []
+  }
+}

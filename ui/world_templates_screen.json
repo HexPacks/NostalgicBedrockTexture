@@ -1,0 +1,15 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "world_list_grids_stack": {
+    "modifications": [
+      {
+        "control_name": "store_panel",
+        "operation": "remove"
+      },
+      {
+        "control_name": "realms_info_panel",
+        "operation": "remove"
+      }
+    ]
+  }
+}

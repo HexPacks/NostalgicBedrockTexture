@@ -1,0 +1,145 @@
+{
+	"format_version": [1,1,0],
+	
+	"melon_block": {
+		"sound": "wood",
+		"textures": {
+		   "down": "melon_top",
+		   "side": "melon_side",
+		   "up": "melon_top"
+		}
+	},
+	"hardened_clay": {
+		"isotropic": false,
+		"sound": "stone",
+		"textures": "hardened_clay"
+	},
+	"stained_hardened_clay": {
+		"isotropic": false,
+		"sound": "stone",
+		"textures": "stained_clay"
+	},
+	"crying_obsidian": {
+		"isotropic": false,
+		"sound": "stone",
+		"textures": "crying_obsidian"
+	},
+	"obsidian": {
+		"isotropic": false,
+		"sound": "stone",
+		"textures": "obsidian"
+	},
+	"deepslate" : {
+		"isotropic" : {
+		   "down" : false,
+		   "up" : false
+		},
+		"sound" : "deepslate",
+		"textures" : {
+		   "down" : "deepslate_top",
+		   "side" : "deepslate",
+		   "up" : "deepslate_top"
+		}
+	},
+	"netherrack" : {
+		"isotropic" : false,
+		"sound" : "netherrack",
+		"textures" : "netherrack"
+	},
+	"clay" : {
+		"isotropic" : false,
+		"sound" : "gravel",
+		"textures" : "clay"
+	},
+	"dirt" : {
+		"isotropic" : false,
+		"sound" : "gravel",
+		"textures" : "dirt"
+	},
+		"dirt_with_roots" : {
+		"isotropic" : false,
+		"sound" : "dirt_with_roots",
+		"textures" : "dirt_with_roots"
+	},
+	"grass_path" : {
+		"isotropic" : {
+		   "down" : false,
+		   "up" : false
+		},
+		"sound" : "grass",
+		"textures" : {
+		   "down" : "dirt",
+		   "side" : "grass_path_side",
+		   "up" : "grass_path_top"
+		}
+	},
+	"podzol" : {
+		"isotropic" : {
+		   "down" : false,
+		   "up" : false
+		},
+		"sound" : "gravel",
+		"textures" : {
+		   "down" : "dirt_podzol_bottom",
+		   "side" : "dirt_podzol_side",
+		   "up" : "dirt_podzol_top"
+		}
+	},
+	"crimson_nylium": {
+		"isotropic": false
+	},
+	"azalea_leaves": {
+		"isotropic": false
+	},
+	"azalea_leaves_flowered": {
+		"isotropic": false
+	},
+	"glowstone": {
+		"isotropic": false
+	},
+	"grass": {
+		"isotropic": false
+	},
+	"leaves": {
+		"isotropic": false
+	},
+	"leaves2": {
+		"isotropic": false
+	},
+	"magma": {
+		"isotropic": false
+	},
+	"mycelium": {
+		"isotropic": false
+	},
+	"red_sandstone": {
+		"isotropic": false
+	},
+	"red_sandstone_stairs": {
+		"isotropic": false
+	},
+	"sand": {
+		"isotropic": false
+	},
+	"sandstone": {
+		"isotropic": false
+	},
+	"sandstone_stairs": {
+		"isotropic": false
+	},
+	"sculk": {
+		"isotropic": false
+	},
+	"snow": {
+		"isotropic": false
+	},
+	"snow_layer": {
+		"isotropic": false
+	},
+	"sponge": {
+		"isotropic": false
+	},
+	"warped_nylium": {
+		"isotropic": false
+	}
+}

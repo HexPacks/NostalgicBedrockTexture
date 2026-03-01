@@ -1,0 +1,27 @@
+//This JSON was modified by AgentMindStorm (@agentms_). Please do not use this document without permission.
+{
+  "selected_stack_panel": {
+    "modifications": [
+      {
+        "control_name": "offset_4",
+        "operation": "remove"
+      },
+      {
+        "control_name": "unowned_packs_title_button",
+        "operation": "remove"
+      },
+      {
+        "control_name": "unowned_packs_section",
+        "operation": "remove"
+      }
+    ]
+  },
+  "selected_stack_panel/available_packs_section/empty_panel": {
+    "modifications": [
+      {
+        "control_name": "to_store_button",
+        "operation": "remove"
+      }
+    ]
+  }
+}

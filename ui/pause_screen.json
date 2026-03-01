@@ -1,0 +1,14 @@
+{
+  "menu_background/button_panel": {
+    "modifications": [
+      {
+        "control_name": "store_button_panel",
+        "operation": "remove"
+      },
+      {
+        "control_name": "store_button_panel",
+        "operation": "remove"
+      }
+    ]
+  }
+}
