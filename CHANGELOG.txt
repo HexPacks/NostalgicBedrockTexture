@@ -1,6 +1,24 @@
+===== BLOCKS =====
 Leaf litter are now invisible
+Added netherite blocks variants
+Added copper blocks set
+
+===== ITEMS =====
+Added netherite items set
+Added netherite horse armor
+Added copper items set
+Added copper horse armor
+Added all spears variants
+
+===== ENTITIES =====
 Fixed view of tamed wolf
-Added copper tools/armor/ingot
+Fixed baby zombie animations
+Fixed zombie pigman animations
+
+===== UIs =====
 Fixed pause screen UI
-Added netherite and copper horse armor
-Added spears
+Fixed various errors & warnings
+Fixed trading UI
+
+===== Assets =====
+Improved manifest.json & splashes.json

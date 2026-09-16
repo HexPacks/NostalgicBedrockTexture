@@ -119,7 +119,7 @@
     ],
     "bindings": [
       {
-        // "binding_name": "#tier_visible",
+        "binding_name": "#tier_visible",
         "binding_name_override": "#visible",
         "binding_type": "collection",
         "binding_collection_name": "$collection_name",

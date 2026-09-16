@@ -44,7 +44,6 @@
         { "holding": "controller.animation.humanoid.holding" },
         { "brandish_spear": "controller.animation.humanoid.brandish_spear" },
         { "charging": "controller.animation.humanoid.charging" },
-        { "attack": "controller.animation.humanoid.attack" },
         { "sneaking": "controller.animation.humanoid.sneaking" },
         { "bob": "controller.animation.humanoid.bob" },
         { "damage_nearby_mobs": "controller.animation.humanoid.damage_nearby_mobs" },
