@@ -20,6 +20,7 @@ Fixed pause screen UI
 Fixed various errors & warnings
 Fixed trading UI
 Fixed resource packs UI errors
+Improved title quality
 
 ===== Assets =====
 Improved manifest.json & splashes.json
