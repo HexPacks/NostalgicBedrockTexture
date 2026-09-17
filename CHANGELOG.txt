@@ -16,7 +16,7 @@ Fixed baby zombie animations
 Fixed zombie pigman animations
 
 ===== UIs =====
-Fixed screen pause UI
+Fixed pause screen UI
 Fixed various errors & warnings
 Fixed trading UI
 Fixed resource packs UI errors
@@ -25,3 +25,4 @@ Fixed dressing room UI errors
 
 ===== Assets =====
 Improved manifest.json & splashes.json
+Added watermark on the pack_icon.png
