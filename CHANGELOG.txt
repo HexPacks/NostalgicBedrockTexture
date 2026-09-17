@@ -1,7 +1,7 @@
 ===== BLOCKS =====
-Leaf litter are now invisible
 Added netherite blocks variants
 Added copper blocks set
+Leaf litter are now invisible
 
 ===== ITEMS =====
 Added netherite items set
@@ -19,6 +19,7 @@ Fixed zombie pigman animations
 Fixed pause screen UI
 Fixed various errors & warnings
 Fixed trading UI
+Fixed resource packs UI errors
 
 ===== Assets =====
 Improved manifest.json & splashes.json
